@@ -4,9 +4,14 @@
 
 - What Every Point Must Contain :
   - Contain Questions About The Informations That I Should Know About This Point.
+    ( Contain Questions Not Answers )
   - Contain Questions That Cover Every Point In Details And From All Sides.
   - Every Question Must be Simple And Clear Or Obvious  
- 
+
+- Notes When Learn Somthing New To Organize The Informations And Understand The Topic In Depth :
+  - What are The Main Points Should I Know About This Topic ?
+  - What Are The Questions That Cover Every Points In Details And From All Sides ?  
+
 - Example : Ordering of Sql Query Results
   	 - What is The Syntax For Ordering Result ?
    	 - What Are Types Of Ordering ?
